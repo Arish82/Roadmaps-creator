@@ -1,3 +1,15 @@
+# About Project
+
+It is an app to create roadmap. Here you can find resources for a particular technology.
+The app is in it's initial stages and I'm hoping to add few new features like creating your account you can customize your own roadmap and make it public to share with community.
+Soon I'll be integrating it with google calender to add reminders.
+
+## Tech Stack
+
+    CSS
+    Bootstrap
+    React JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
