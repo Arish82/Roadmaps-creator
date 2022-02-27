@@ -1,3 +1,12 @@
+## Home page
+![alt text](https://github.com/Arish82/Roadmaps-creator/blob/main/public/Images_github/home%20page.png?raw=true)
+
+![alt text](https://github.com/Arish82/Roadmaps-creator/blob/main/public/Images_github/Card.png?raw=true)
+
+![alt text](https://github.com/Arish82/Roadmaps-creator/blob/main/public/Images_github/resource%20manager.png?raw=true)
+
+![alt text](https://github.com/Arish82/Roadmaps-creator/blob/main/public/Images_github/add%20Card.png?raw=true)
+
 # About Project
 
 It is an app to create roadmap. Here you can find resources for a particular technology.
