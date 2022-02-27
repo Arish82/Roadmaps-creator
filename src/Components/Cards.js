@@ -16,7 +16,7 @@ function Cards(props){
                 </div>
                 <div className="img">
                     <a href="https://roadmap.sh/frontend" target="blank" rel="nor">
-                        <img src="https://github.com/kamranahmedse/developer-roadmap/raw/master/img/frontend.png?year-2021-2" className="card-img-top" alt="..."/>
+                        <img src="https://roadmap.sh/roadmaps/frontend.png" className="card-img-top" alt="..."/>
                     </a>
                 </div>
                 <div className="card-body" style={{paddingBottom: "0px"}}>
