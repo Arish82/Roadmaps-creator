@@ -4,6 +4,8 @@ It is an app to create roadmap. Here you can find resources for a particular tec
 The app is in it's initial stages and I'm hoping to add few new features like creating your account you can customize your own roadmap and make it public to share with community.
 Soon I'll be integrating it with google calender to add reminders.
 
+You can see that we are not using any backend and database as of know. So, for now all the data will we stored in a json file and in future, we'll be using node js as backend and mysql as database.
+
 ## Tech Stack
 
     CSS
